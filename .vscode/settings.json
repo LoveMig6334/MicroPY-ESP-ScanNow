@@ -1,0 +1,20 @@
+{
+    "cSpell.words": [
+        "avrlib",
+        "CGRAM",
+        "DDRAM",
+        "deepsleep",
+        "DISP",
+        "espnow",
+        "micropython",
+        "powerup",
+        "putchar",
+        "putstr",
+        "rssi",
+        "statvfs",
+        "unblanks",
+        "usecs",
+        "wlan",
+        "writeto"
+    ]
+}
