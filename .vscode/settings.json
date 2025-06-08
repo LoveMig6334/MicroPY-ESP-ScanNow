@@ -1,20 +1,30 @@
 {
     "cSpell.words": [
+        "adafruit",
+        "ampy",
         "avrlib",
         "CGRAM",
         "DDRAM",
         "deepsleep",
         "DISP",
         "espnow",
+        "esptool",
+        "MFRC",
+        "microcontrollers",
         "micropython",
+        "Minicom",
+        "MOSI",
         "powerup",
         "putchar",
         "putstr",
+        "RFID",
+        "rshell",
         "rssi",
         "statvfs",
         "unblanks",
         "usecs",
         "wlan",
-        "writeto"
+        "writeto",
+        "WROOM"
     ]
 }
